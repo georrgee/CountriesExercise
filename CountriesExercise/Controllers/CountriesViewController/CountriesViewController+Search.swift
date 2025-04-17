@@ -12,7 +12,9 @@ extension CountriesViewController: UISearchResultsUpdating {
         
         filteredCountries = countries.filter { country in
             country.name.lowercased().contains(searchText) ||
-            country.capital.lowercased().contains(searchText)
+            country.capital.lowercased().contains(searchText) ||
+            country.code.lowercased().contains(searchText) ||
+            country.region.lowercased().contains(searchText)
         }
         
         tableView.reloadData()

@@ -1,5 +1,6 @@
 # Countries Exercise
-A simple swift application that displays a list of countries with their details
+A simple swift application that displays a list of countries with their details. 
+A user is able ot search by the name of the country, it's capital, region and country code
 
 ## Features
 - Fetch and display list of countries
