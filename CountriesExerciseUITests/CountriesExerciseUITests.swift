@@ -1,9 +1,6 @@
-//
 //  CountriesExerciseUITests.swift
 //  CountriesExerciseUITests
-//
-//  Created by George Garcia on 4/17/25.
-//
+//  Created by George Garcia on 4/17/25
 
 import XCTest
 
