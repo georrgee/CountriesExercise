@@ -2,6 +2,9 @@
 A simple swift application that displays a list of countries with their details. 
 A user is able ot search by the name of the country, it's capital, region and country code
 
+![demo-video](https://github.com/user-attachments/assets/3e9a4047-d4e5-4f68-a600-4e970820d717)
+
+
 ## Features
 - Fetch and display list of countries
 - Search functionality to filter countries
